@@ -1,4 +1,4 @@
-# First news app
+# My Second News App
 
 A step-by-step guide to publishing a simple news application.
 
